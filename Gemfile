@@ -71,3 +71,4 @@ end
 
 gem 'mini_racer'
 gem 'autoprefixer-rails', '~> 7.1.6'
+gem 'simple_form'
